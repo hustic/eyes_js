@@ -21,7 +21,7 @@ function draw() {
      stroke(2);
  } else {
     
-   stroke(250, 30);
+   stroke(150, 150);
  }
 
   var v;
